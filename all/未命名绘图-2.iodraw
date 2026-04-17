@@ -25,9 +25,6 @@
         <mxCell id="FzioaYP5RIBcBZeWdRkM-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzioaYP5RIBcBZeWdRkM-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="560" width="290" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="290" height="60" as="geometry" />
         </mxCell>
@@ -109,7 +106,7 @@
         <mxCell id="FzioaYP5RIBcBZeWdRkM-43" value="场景切换与关卡互连系统 (传送点、异步加载等)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="415" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FzioaYP5RIBcBZeWdRkM-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-44" value="用户界面逻辑 (主菜单、角色血条、场景渐变、交互面板)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="495" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
