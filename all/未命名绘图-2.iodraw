@@ -70,9 +70,6 @@
         <mxCell id="FzioaYP5RIBcBZeWdRkM-31" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="495" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FzioaYP5RIBcBZeWdRkM-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="575" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-33" value="Game Data(游戏数据配置)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="695" width="60" height="30" as="geometry" />
         </mxCell>
@@ -107,7 +104,7 @@
           <mxGeometry x="675" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-44" value="用户界面逻辑 (主菜单、角色血条、场景渐变、交互面板)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="675" y="495" width="60" height="30" as="geometry" />
+          <mxGeometry x="675" y="495" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
