@@ -53,7 +53,7 @@
           <mxGeometry x="330" y="295" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-24" value="Character States" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="15" width="110" height="30" as="geometry" />
+          <mxGeometry x="560" y="15" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-26" value="Characters" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="95" width="60" height="30" as="geometry" />
