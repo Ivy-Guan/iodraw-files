@@ -98,10 +98,10 @@
           <mxGeometry x="675" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-42" value="通用工具类 (单例基类、各种辅助方法等)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="675" y="335" width="60" height="30" as="geometry" />
+          <mxGeometry x="675" y="335" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-43" value="场景切换与关卡互连系统 (传送点、异步加载等)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="675" y="415" width="60" height="30" as="geometry" />
+          <mxGeometry x="675" y="415" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-44" value="用户界面逻辑 (主菜单、角色血条、场景渐变、交互面板)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="495" width="165" height="30" as="geometry" />
