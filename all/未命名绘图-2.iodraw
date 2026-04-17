@@ -47,7 +47,7 @@
           <mxGeometry x="320" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-23" value="Scripts (核心代码逻辑)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="295" width="110" height="30" as="geometry" />
+          <mxGeometry x="320" y="295" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-24" value="Character States" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="15" width="100" height="30" as="geometry" />
