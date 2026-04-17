@@ -74,7 +74,7 @@
           <mxGeometry x="560" y="495" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="575" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="575" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-33" value="Game Data(游戏数据配置)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="695" width="60" height="30" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-37" value="其他第三方资源与插件文件夹" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1015" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
