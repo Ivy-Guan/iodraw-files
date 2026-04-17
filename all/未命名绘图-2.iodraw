@@ -82,8 +82,11 @@
         <mxCell id="FzioaYP5RIBcBZeWdRkM-54" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzioaYP5RIBcBZeWdRkM-23" target="FzioaYP5RIBcBZeWdRkM-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FzioaYP5RIBcBZeWdRkM-23" target="FzioaYP5RIBcBZeWdRkM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-23" value="Scripts (核心代码逻辑)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="295" width="120" height="30" as="geometry" />
+          <mxGeometry x="320" y="255" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-24" value="Character States" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="15" width="100" height="30" as="geometry" />
