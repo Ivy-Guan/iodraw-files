@@ -94,10 +94,10 @@
         <mxCell id="FzioaYP5RIBcBZeWdRkM-38" value="角色/敌人状态与属性系统（基于数据驱动）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="15" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FzioaYP5RIBcBZeWdRkM-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-39" value="角色与敌人的核心控制、行为逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="95" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FzioaYP5RIBcBZeWdRkM-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-40" value="战斗与攻击系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="175" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
