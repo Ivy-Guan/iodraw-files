@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2066" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,28 +8,28 @@
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="160" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="240" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="320" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="400" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="480" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="560" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="80" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="360" width="120" height="60" as="geometry" />
@@ -48,6 +48,48 @@
         </mxCell>
         <mxCell id="FzioaYP5RIBcBZeWdRkM-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-23" value="Scripts (核心代码逻辑)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="295" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-24" value="Character States" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="15" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-26" value="Characters" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-27" value="Combat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-28" value="Managers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-29" value="Tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-30" value="Transition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-31" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-33" value="Game Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-34" value="Prefabs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="775" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-35" value="Scenes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="855" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-36" value="Animations / Audio (音效与动画资源)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FzioaYP5RIBcBZeWdRkM-37" value="其他第三方资源与插件文件夹" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1015" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
